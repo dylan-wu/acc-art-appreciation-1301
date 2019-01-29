@@ -22,7 +22,10 @@
   g. Follow all instructions for 100%.
 
 ```
-Note: Do your own writing before reading the work of others to avoid restating what has already been written by another student. Do not use the writing of other authors, period! Do not quote them. I will check all writing assignments submitted for plagiarism. If you plagiarize the work of another person you may fail this course and face other consequences. If you feel your discussion board posting has been plagiarized contact me, asap. (View course/college policy on plagiarism.)
+Note: Do your own writing before reading the work of others to avoid restating what has already been written by another 
+student. Do not use the writing of other authors, period! Do not quote them. I will check all writing assignments submitted 
+for plagiarism. If you plagiarize the work of another person you may fail this course and face other consequences. If you feel 
+your discussion board posting has been plagiarized contact me, asap. (View course/college policy on plagiarism.)
 ```
 
 ## Research and Preparation.
