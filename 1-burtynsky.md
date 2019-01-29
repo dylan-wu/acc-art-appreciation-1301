@@ -7,19 +7,19 @@
 
 1. Use these criteria for content, quality and quantity or length. 
 
-  a. Answer the questions posed completely.
+    a. Answer the questions posed completely.
 
-  b. Draft/Prewrite - organize your thoughts.
+    b. Draft/Prewrite - organize your thoughts.
 
-  c. Use spell check.
+    c. Use spell check.
 
-  d. Check for usage errors//grammar check.
+    d. Check for usage errors//grammar check.
 
-  e. Have a trusted peer read for careless errors.
+    e. Have a trusted peer read for careless errors.
 
-  f. Do not plagiarize. (Policies will be enforced see your syllabus)
+    f. Do not plagiarize. (Policies will be enforced see your syllabus)
 
-  g. Follow all instructions for 100%.
+    g. Follow all instructions for 100%.
 
 ```
 Note: Do your own writing before reading the work of others to avoid restating
