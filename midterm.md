@@ -2,7 +2,8 @@
 
 [Review](midterm.pdf)
 
-| Date | Percentage | # of Questions |
+| Date | Percentage | Questions |
 |------|------------|----------------|
-| 2019-02-07 | ![](http://progressed.io/bar/57) | 30 |
-| 2019-02-07 | ![](http://progressed.io/bar/33) | 30 |
+| 2019-02-08 | ![](http://progressed.io/bar/70) | 1 - 30 |
+| 2019-02-07 | ![](http://progressed.io/bar/57) | 1 - 30 |
+| 2019-02-07 | ![](http://progressed.io/bar/33) | 1 - 30 |
